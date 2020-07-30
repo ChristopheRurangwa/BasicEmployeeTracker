@@ -1,0 +1,10 @@
+
+Task                            Hours
+Design                             7
+Reviewing                          8
+update code                        8
+debug                              9
+connecting server                  6
+Final review                       5
+Presentation preparation           4
+present the product               .5
